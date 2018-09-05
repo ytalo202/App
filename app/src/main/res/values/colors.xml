@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5fe145</color>
+
+    <color name="colorButton">#5fe145</color>
+    <color name="colorPrimaryDark">#FF5733</color>
+    <color name="colorAccent">#FF5733</color>
+
+    <color name="colorOrange">#ec7d2d</color>
+    <color name="white">#FF5733</color>
+    <color name="action_bar_text_color">#d058e2</color>
+    <color name="hintColor">#868181</color>
+
+</resources>
